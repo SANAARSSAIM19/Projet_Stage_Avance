@@ -3,7 +3,7 @@
 <?php  use App\Models\Post;?>
 @include('menu')
 
-<!--<form method="POST" action="{{ route('employees.store') }}">
+<!--<form method="POST" action=
     @csrf
 
     <label for="nom">Nom :</label>

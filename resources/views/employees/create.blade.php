@@ -1,7 +1,6 @@
 @include('menu')
-
-<!--<form method="POST" action="{{ route('employees.store') }}">
-    @csrf
+@csrf
+<!--<form method="POST" action="
 
     <label for="nom">Nom :</label>
     <input type="text" name="nom" id="nom">

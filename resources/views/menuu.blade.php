@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'radees.ma') }}</title>
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('https://fonts.googleapis.com/css?family=Nunito')}}" rel="stylesheet">
@@ -33,8 +33,8 @@
             <a class="sidebar-brand d-flex align-items-center justify-content-center  " href="index.html">
                 <nav class=" navbar-light bg-white ">
 
-            <img src="bootstrap2/images/radees.svg" alt="" width="75 px" height="70px">
-        </nav>
+                    <img src="bootstrap2/images/radees.svg" alt="" width="75 px" height="70px">
+                </nav>
 
         </a>
 
